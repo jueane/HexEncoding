@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encoder", "Encoder\Encoder.csproj", "{686CF1D7-7558-4404-8F08-D1DC65B6EACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexEncoding", "HexEncoding\HexEncoding.csproj", "{38FEA552-1FBB-49EA-B89A-0067DDAFFD97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686CF1D7-7558-4404-8F08-D1DC65B6EACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686CF1D7-7558-4404-8F08-D1DC65B6EACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686CF1D7-7558-4404-8F08-D1DC65B6EACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686CF1D7-7558-4404-8F08-D1DC65B6EACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38FEA552-1FBB-49EA-B89A-0067DDAFFD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FEA552-1FBB-49EA-B89A-0067DDAFFD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FEA552-1FBB-49EA-B89A-0067DDAFFD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FEA552-1FBB-49EA-B89A-0067DDAFFD97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6700EF84-662F-425A-AF4C-C2BF7D0B97E7}
+	EndGlobalSection
+EndGlobal
